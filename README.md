@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Gianni Martínez]
+# 👋 Hola, soy Gianni Martínez
 
 ## 🚀 Diseñador & Desarrollador Web Full Stack
 
