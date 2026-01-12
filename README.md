@@ -1,8 +1,8 @@
-# 👋 Hola, soy Gianni Martínez
+#  Hola👋
 
 ## 🚀 Diseñador & Desarrollador Web Full Stack
 
-Apasionado por crear experiencias digitales únicas que combinan **diseño atractivo** con **desarrollo robusto**.  
+Soy Gianni Martínez, un apasionado por crear experiencias digitales únicas que combinan **diseño atractivo** con **desarrollo robusto**.  
 Me gusta transformar ideas en productos funcionales, escalables y con una interfaz intuitiva.
 
 ---
