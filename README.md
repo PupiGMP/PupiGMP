@@ -10,7 +10,6 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ### 🛠️ Mi Stack de Trabajo
 
 - **Frontend**
-  - HTML5, CSS3, JavaScript (ES6+)
   - Frameworks: Angular y Next JS
   - UI Libraries: TailwindCSS, Material UI, Bootstrap
 
