@@ -7,26 +7,11 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ---
 
-### 🛠️ Mi Stack de Trabajo
+### 🛠️ Tecnologías
 
-- **Frontend**
-  - Frameworks: Angular y Next JS
-  - UI Libraries: TailwindCSS, Material UI, Bootstrap
-
-- **Backend**
-  - Node.js
-  - Prisma
-  - Nest JS
-
-- **Bases de Datos**
-  - PostgreSQL
-
-- **Control de versiones**
-  - Git & GitHub
-
-- **Diseño**
-  - Figma
-  - Adobe XD
+- **Frontend:** Angular, Next JS, TailwindCSS.
+- **Backend:** Node.js, Prisma, Nest JS, PostgreSQL.
+- **Design UI/UX:** Figma, Adobe XD.
 ---
 
 ### 🌟 Lo que me motiva
