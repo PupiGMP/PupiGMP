@@ -38,7 +38,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ---
 
 ### 📫 Conecta conmigo
-- 🌐 [Coreo](pupigmp@gmail.com)
+- 🌐 [Correo Gmail](pupigmp@gmail.com)
 
 ---
 
