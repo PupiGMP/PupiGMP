@@ -22,6 +22,3 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ### Conecta conmigo
 - 🌐 [Correo Gmail](pupigmp@gmail.com)
 
----
-
-⭐️ Si te interesa colaborar en proyectos creativos y desafiantes, ¡no dudes en contactarme!
