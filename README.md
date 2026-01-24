@@ -20,8 +20,8 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ## 🎨 Tecnologías de Diseño
 <p align="left">
-  <!-- Adobe XD desde Simple Icons con fondo oscuro y letras blancas -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobexd.svg" width="40" height="40" style="background-color:#470137; padding:5px; border-radius:8px;" />
+  <!-- Adobe XD con color original y letras blancas -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobexd.svg" width="40" height="40" style="background-color:#FF61F6; padding:5px; border-radius:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
 
@@ -39,7 +39,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   
   <!-- TailwindCSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   
   <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
