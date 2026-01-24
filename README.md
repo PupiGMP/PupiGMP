@@ -20,8 +20,8 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ## 🎨 Tecnologías de Diseño
 <p align="left">
-  <!-- Adobe XD con color original -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/>
+  <!-- Adobe XD oficial -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" height="40"/>
   <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
@@ -30,7 +30,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ## 💻 Tecnologías de Desarrollo
 <p align="left">
-  <!-- PNPM logo oficial -->
+  <!-- PNPM oficial -->
   <img src="https://pnpm.io/img/pnpm-logo.svg" width="100" height="40"/>
   
   <!-- Angular -->
@@ -51,7 +51,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   
-  <!-- NestJS logo oficial en rojo -->
+  <!-- NestJS oficial -->
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
   
   <!-- Prisma -->
