@@ -29,11 +29,9 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ---
 
 ## 💻 Tecnologías de Desarrollo
-<p align="left">
-  <!-- PNPM oficial -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pnpm.svg" width="40" height="40"/>
-  
-  <!-- Angular -->
+
+### Frontend:
+<!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   
   <!-- Next.js -->
@@ -44,8 +42,9 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   
   <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
-  
-  <!-- Node.js -->
+
+### Backend:
+<!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   
   <!-- Express -->
@@ -62,6 +61,11 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  
+### Workflow:
+<p align="left">
+  <!-- PNPM oficial -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pnpm.svg" width="40" height="40"/>
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
