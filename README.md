@@ -20,8 +20,9 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ## 🎨 Tecnologías de Diseño
 <p align="left">
-  <!-- Adobe XD desde Simple Icons con fondo original y letras blancas -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobexd.svg" width="40" height="40" style="background-color:#FF61F6; color:white; padding:5px; border-radius:8px;" />
+  <!-- Adobe XD con color original -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/>
+  <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
 
@@ -29,8 +30,8 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ## 💻 Tecnologías de Desarrollo
 <p align="left">
-  <!-- PNPM desde Simple Icons -->
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pnpm.svg" width="40" height="40" style="background-color:#f69220; color:white; padding:5px; border-radius:8px;" />
+  <!-- PNPM logo oficial -->
+  <img src="https://pnpm.io/img/pnpm-logo.svg" width="100" height="40"/>
   
   <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
@@ -38,7 +39,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   
-  <!-- TailwindCSS (usar versión correcta) -->
+  <!-- TailwindCSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   
   <!-- WordPress -->
@@ -50,8 +51,8 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   
-  <!-- NestJS (no está en Devicon, usar Simple Icons) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" width="40" height="40" style="background-color:#E0234E; color:white; padding:5px; border-radius:8px;" />
+  <!-- NestJS logo oficial en rojo -->
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
   
   <!-- Prisma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
