@@ -3,7 +3,7 @@
 Soy Gianni Martínez, un apasionado por crear experiencias digitales únicas que combinan **diseño atractivo** con **desarrollo robusto**.  
 Me gusta transformar ideas en productos funcionales, escalables y con una interfaz intuitiva.
 
-### Lo que me motiva
+### Busco
 - Crear aplicaciones que resuelvan problemas reales.
 - Aprender y aplicar nuevas tecnologías.
 - Colaborar en proyectos open source y compartir conocimiento.
