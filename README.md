@@ -31,6 +31,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ## 💻 Tecnologías de Desarrollo
 
 ### Frontend:
+<p align="left">
 <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   
@@ -42,8 +43,9 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   
   <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
-
+</p>
 ### Backend:
+<p align="left">
 <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   
@@ -61,6 +63,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
   
 ### Workflow:
 <p align="left">
