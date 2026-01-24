@@ -1,9 +1,7 @@
-# Hola 👋
+# #CodeForLife</>! 
 
 Soy Gianni Martínez, un apasionado por crear experiencias digitales únicas que combinan **diseño atractivo** con **desarrollo robusto**.  
 Me gusta transformar ideas en productos funcionales, escalables y con una interfaz intuitiva.
-
----
 
 ### Lo que me motiva
 - Crear aplicaciones que resuelvan problemas reales.
@@ -21,10 +19,7 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 
 ### Frontend:
 <p align="left">
-  <!-- Adobe XD oficial -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" height="40"/>
-  <!-- Canva -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+  
 <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   
@@ -33,6 +28,10 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   
   <!-- TailwindCSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <!-- Adobe XD oficial -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" height="40"/>
+  <!-- Canva -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
   
   <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
