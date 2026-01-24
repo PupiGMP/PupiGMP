@@ -16,22 +16,16 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pupibyte) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pupigmp@gmail.com)  
 
----
 
-## 🎨 Tecnologías de Diseño
+## 💻 Stack Personal:
+
+### Frontend:
 <p align="left">
   <!-- Adobe XD oficial -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" height="40"/>
   <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
-
----
-
-## 💻 Tecnologías de Desarrollo
-
-### Frontend:
-<p align="left">
 <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   
