@@ -44,6 +44,8 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
   <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
 </p>
+
+
 ### Backend:
 <p align="left">
 <!-- Node.js -->
