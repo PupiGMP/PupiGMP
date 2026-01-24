@@ -11,8 +11,9 @@ Me gusta transformar ideas en productos funcionales, escalables y con una interf
 ---
 
 ## 🌐 Contacto
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pupibyte) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pupigmp@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pupibyte) 
+
 
 
 ## 💻 Stack Personal:
